@@ -32,24 +32,10 @@ yarn dev  # or npm run dev
 
 The app will be available at `http://localhost:3000/` (depending on your setup).
 
-## Project Structure
-```
-├── src
-│   ├── components
-│   │   ├── TokenLaunchpad.js
-│   ├── App.js
-│   ├── App.css
-│
-├── package.json
-├── README.md
-```
 
 ## Deployment
 To deploy this app, you can use platforms like Vercel, Netlify, or GitHub Pages.
 
 ## Contributing
 Feel free to fork the repository and submit pull requests!
-
-## License
-This project is licensed under the MIT License.
 
